@@ -1,0 +1,1232 @@
+SVD of Aw 
+Number of left singular vectors  = 16
+k = 1, m=1 ,; error n(res)/n(b) (%) = 89.5830033
+k = 2, m=2 ,; error n(res)/n(b) (%) = 82.19869368
+k = 3, m=3 ,; error n(res)/n(b) (%) = 74.07799014
+k = 4, m=4 ,; error n(res)/n(b) (%) = 65.47396365
+k = 5, m=5 ,; error n(res)/n(b) (%) = 55.56877728
+k = 6, m=6 ,; error n(res)/n(b) (%) = 47.69193114
+k = 7, m=7 ,; error n(res)/n(b) (%) = 38.45339898
+k = 8, m=8 ,; error n(res)/n(b) (%) = 27.20329279
+k = 9, m=9 ,; error n(res)/n(b) (%) = 1.410216071
+k = 10, m=10 ,; error n(res)/n(b) (%) = 1.122989228
+k = 11, m=11 ,; error n(res)/n(b) (%) = 0.9665878364
+k = 12, m=12 ,; error n(res)/n(b) (%) = 0.5742295663
+k = 13, m=13 ,; error n(res)/n(b) (%) = 0.2774116436
+k = 14, m=14 ,; error n(res)/n(b) (%) = 0.1806101608
+k = 15, m=15 ,; error n(res)/n(b) (%) = 0.007137863118
+k = 16, m=16 ,; error n(res)/n(b) (%) = 5.855469401e-14
+Total number of iterations =17
+****************************+
+List of selected m = 16 elements
+455  325  725  126  526  827   28  634  238  601   53  784  877  376  651    4
+----------------------------------------------------------------------------------------
+Integration Error associated to the SVD =1.341e-13 % (for a SVD tolerance =0 )
+----------------------------------------------------------------------------------------
+Actual integration error using DECM= 1.6106e-13 % (prescribed tolerance fint =0%
+--------------------------------------------
+Integration appr. error at k= 0 -->4.1075e-13 %(  it measures the quality in evaluating the function via   fitting, if any)
+*********************************************************************************************
+ CUB. RULE  with    15 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =16 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.00010259 MAX NORM incre DISPL =0.00011159
+Iteration k=2,  error residual =4.4089e-08 MAX NORM incre DISPL =5.0941e-08
+Iteration k=3,  error residual =9.0167e-15 MAX NORM incre DISPL =7.8826e-15
+*********************************************************************************************
+ CUB. RULE  with    14 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =14 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.0034731 MAX NORM incre DISPL =0.0033869
+Iteration k=2,  error residual =5.5609e-05 MAX NORM incre DISPL =3.8964e-05
+Iteration k=3,  error residual =8.2011e-09 MAX NORM incre DISPL =3.1371e-09
+*********************************************************************************************
+ CUB. RULE  with    13 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =15 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.0030686 MAX NORM incre DISPL =0.002053
+Iteration k=2,  error residual =3.3707e-05 MAX NORM incre DISPL =2.3148e-05
+Iteration k=3,  error residual =1.0251e-09 MAX NORM incre DISPL =5.8958e-10
+*********************************************************************************************
+ CUB. RULE  with    12 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =13 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.0068806 MAX NORM incre DISPL =0.0065432
+Iteration k=2,  error residual =0.000163 MAX NORM incre DISPL =0.0001237
+Iteration k=3,  error residual =3.9966e-08 MAX NORM incre DISPL =2.376e-08
+Iteration k=4,  error residual =8.9461e-16 MAX NORM incre DISPL =5.5511e-16
+*********************************************************************************************
+ CUB. RULE  with    11 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =11 (attempt nº 1)
+---------------------------------------
+Found 1 negative weights
+Iteration k=1,  error residual =0.01039 MAX NORM incre DISPL =0.0093824
+Found 1 negative weights
+Iteration k=2,  error residual =0.00047824 MAX NORM incre DISPL =0.00037634
+Found 1 negative weights
+Iteration k=3,  error residual =6.6314e-07 MAX NORM incre DISPL =3.9245e-07
+Found 1 negative weights
+Iteration k=4,  error residual =4.3425e-13 MAX NORM incre DISPL =2.387e-13
+*********************************************************************************************
+ CUB. RULE  with    10 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =10 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.0067047 MAX NORM incre DISPL =0.015004
+Found 1 negative weights
+Iteration k=2,  error residual =0.00051173 MAX NORM incre DISPL =0.0016362
+Found 1 negative weights
+Iteration k=3,  error residual =9.4965e-06 MAX NORM incre DISPL =8.2373e-06
+Found 1 negative weights
+Iteration k=4,  error residual =4.1688e-10 MAX NORM incre DISPL =2.1416e-10
+*********************************************************************************************
+ CUB. RULE  with    9 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =12 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.0019797 MAX NORM incre DISPL =0.0055617
+Iteration k=2,  error residual =0.00013434 MAX NORM incre DISPL =5.2472e-05
+Iteration k=3,  error residual =4.3254e-09 MAX NORM incre DISPL =3.6333e-09
+*********************************************************************************************
+ CUB. RULE  with    8 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =8 (attempt nº 1)
+---------------------------------------
+Found 2 negative weights
+Points: 3  4  7  9 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Iteration k=1,  error residual =0.27367 MAX NORM incre DISPL =0
+Found 4 negative weights
+Points: 1  2  5  6 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=2,  error residual =0.27367 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =7 (attempt nº 2)
+---------------------------------------
+Found 1 negative weights
+Points: 3  4  6  8 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Iteration k=1,  error residual =0.27179 MAX NORM incre DISPL =0
+Found 3 negative weights
+Points: 1  2  5  9 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=2,  error residual =0.27179 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =6 (attempt nº 3)
+---------------------------------------
+Found 2 negative weights
+Points: 2  5  7  8 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Iteration k=1,  error residual =0.27486 MAX NORM incre DISPL =0
+Found 4 negative weights
+Points: 1  3  4  9 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=2,  error residual =0.27486 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =9 (attempt nº 4)
+---------------------------------------
+Found 2 negative weights
+Points: 1  2  5  7  8 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=1,  error residual =0.27307 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =2 (attempt nº 5)
+---------------------------------------
+Iteration k=1,  error residual =0.36645 MAX NORM incre DISPL =0.35293
+Iteration k=2,  error residual =0.26983 MAX NORM incre DISPL =0.17005
+Iteration k=3,  error residual =0.053208 MAX NORM incre DISPL =0.029058
+Iteration k=4,  error residual =0.00229 MAX NORM incre DISPL =0.0012058
+Iteration k=5,  error residual =3.1797e-06 MAX NORM incre DISPL =1.5963e-06
+Iteration k=6,  error residual =6.7275e-12 MAX NORM incre DISPL =2.9265e-12
+*********************************************************************************************
+ CUB. RULE  with    7 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =6 (attempt nº 1)
+---------------------------------------
+Found 2 negative weights
+Points: 1  3  4  5  7  8  9 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=1,  error residual =0.27474 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =9 (attempt nº 2)
+---------------------------------------
+Found 2 negative weights
+Points: 1  3  5  6  7  8 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=1,  error residual =0.27315 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =5 (attempt nº 3)
+---------------------------------------
+Iteration k=1,  error residual =0.37174 MAX NORM incre DISPL =0.36657
+Iteration k=2,  error residual =0.25402 MAX NORM incre DISPL =0.16956
+Iteration k=3,  error residual =0.047757 MAX NORM incre DISPL =0.024659
+Iteration k=4,  error residual =0.0010423 MAX NORM incre DISPL =0.00056932
+Iteration k=5,  error residual =6.0413e-07 MAX NORM incre DISPL =2.6864e-07
+Iteration k=6,  error residual =3.1635e-13 MAX NORM incre DISPL =1.9814e-13
+*********************************************************************************************
+ CUB. RULE  with    6 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =3 (attempt nº 1)
+---------------------------------------
+Points: 7  9 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=1,  error residual =0.37016 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =4 (attempt nº 2)
+---------------------------------------
+Points: 3  6  8 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=1,  error residual =0.37243 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =1 (attempt nº 3)
+---------------------------------------
+Iteration k=1,  error residual =0.51918 MAX NORM incre DISPL =0.19626
+Iteration k=2,  error residual =0.14565 MAX NORM incre DISPL =0.045607
+Iteration k=3,  error residual =0.0050766 MAX NORM incre DISPL =0.0017085
+Iteration k=4,  error residual =6.7369e-06 MAX NORM incre DISPL =2.6532e-06
+Iteration k=5,  error residual =1.7738e-11 MAX NORM incre DISPL =4.7349e-12(Rank 14 of 16)
+*********************************************************************************************
+ CUB. RULE  with    5 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =3 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.31721 MAX NORM incre DISPL =0.10757(Rank 13 of 16)
+Iteration k=2,  error residual =0.067025 MAX NORM incre DISPL =0.020936(Rank 13 of 16)
+Iteration k=3,  error residual =0.0012491 MAX NORM incre DISPL =0.00041217(Rank 13 of 16)
+Iteration k=4,  error residual =4.8117e-07 MAX NORM incre DISPL =1.7933e-07(Rank 13 of 16)
+Iteration k=5,  error residual =1.1233e-13 MAX NORM incre DISPL =2.6534e-14(Rank 13 of 16)
+*********************************************************************************************
+ CUB. RULE  with    4 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =4 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.31854 MAX NORM incre DISPL =0.10824(Rank 12 of 16)
+Iteration k=2,  error residual =0.067726 MAX NORM incre DISPL =0.021164(Rank 12 of 16)
+Iteration k=3,  error residual =0.0012763 MAX NORM incre DISPL =0.00042116(Rank 12 of 16)
+Iteration k=4,  error residual =5.0236e-07 MAX NORM incre DISPL =1.8721e-07(Rank 12 of 16)
+Iteration k=5,  error residual =1.2191e-13 MAX NORM incre DISPL =2.8866e-14(Rank 12 of 16)
+*********************************************************************************************
+ CUB. RULE  with    3 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =7 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.75926 MAX NORM incre DISPL =0.025505(Rank 9 of 16)
+Iteration k=2,  error residual =0.66561 MAX NORM incre DISPL =0.027716(Rank 9 of 16)
+Iteration k=3,  error residual =0.66133 MAX NORM incre DISPL =0.01251(Rank 9 of 16)
+Iteration k=4,  error residual =0.66032 MAX NORM incre DISPL =0.0049467(Rank 9 of 16)
+Iteration k=5,  error residual =0.66015 MAX NORM incre DISPL =0.0019055(Rank 9 of 16)
+Iteration k=6,  error residual =0.66013 MAX NORM incre DISPL =0.00072645(Rank 9 of 16)
+Iteration k=7,  error residual =0.66012 MAX NORM incre DISPL =0.00027578(Rank 9 of 16)
+Iteration k=8,  error residual =0.66012 MAX NORM incre DISPL =0.00010452(Rank 9 of 16)
+Iteration k=9,  error residual =0.66012 MAX NORM incre DISPL =3.9589e-05(Rank 9 of 16)
+Iteration k=10,  error residual =0.66012 MAX NORM incre DISPL =1.4991e-05(Rank 9 of 16)
+Iteration k=11,  error residual =0.66012 MAX NORM incre DISPL =5.6761e-06(Rank 9 of 16)
+Iteration k=12,  error residual =0.66012 MAX NORM incre DISPL =2.1491e-06(Rank 9 of 16)
+----------------------------------------
+Removing point =8 (attempt nº 2)
+---------------------------------------
+Iteration k=1,  error residual =0.75926 MAX NORM incre DISPL =0.025505(Rank 9 of 16)
+Iteration k=2,  error residual =0.66561 MAX NORM incre DISPL =0.027716(Rank 9 of 16)
+Iteration k=3,  error residual =0.66133 MAX NORM incre DISPL =0.01251(Rank 9 of 16)
+Iteration k=4,  error residual =0.66032 MAX NORM incre DISPL =0.0049467(Rank 9 of 16)
+Iteration k=5,  error residual =0.66015 MAX NORM incre DISPL =0.0019055(Rank 9 of 16)
+Iteration k=6,  error residual =0.66013 MAX NORM incre DISPL =0.00072645(Rank 9 of 16)
+Iteration k=7,  error residual =0.66012 MAX NORM incre DISPL =0.00027578(Rank 9 of 16)
+Iteration k=8,  error residual =0.66012 MAX NORM incre DISPL =0.00010452(Rank 9 of 16)
+Iteration k=9,  error residual =0.66012 MAX NORM incre DISPL =3.9589e-05(Rank 9 of 16)
+Iteration k=10,  error residual =0.66012 MAX NORM incre DISPL =1.4991e-05(Rank 9 of 16)
+Iteration k=11,  error residual =0.66012 MAX NORM incre DISPL =5.6761e-06(Rank 9 of 16)
+Iteration k=12,  error residual =0.66012 MAX NORM incre DISPL =2.1491e-06(Rank 9 of 16)
+----------------------------------------
+Removing point =9 (attempt nº 3)
+---------------------------------------
+Iteration k=1,  error residual =0.75926 MAX NORM incre DISPL =0.025505(Rank 9 of 16)
+Iteration k=2,  error residual =0.66561 MAX NORM incre DISPL =0.027716(Rank 9 of 16)
+Iteration k=3,  error residual =0.66133 MAX NORM incre DISPL =0.01251(Rank 9 of 16)
+Iteration k=4,  error residual =0.66032 MAX NORM incre DISPL =0.0049467(Rank 9 of 16)
+Iteration k=5,  error residual =0.66015 MAX NORM incre DISPL =0.0019055(Rank 9 of 16)
+Iteration k=6,  error residual =0.66013 MAX NORM incre DISPL =0.00072645(Rank 9 of 16)
+Iteration k=7,  error residual =0.66012 MAX NORM incre DISPL =0.00027578(Rank 9 of 16)
+Iteration k=8,  error residual =0.66012 MAX NORM incre DISPL =0.00010452(Rank 9 of 16)
+Iteration k=9,  error residual =0.66012 MAX NORM incre DISPL =3.9589e-05(Rank 9 of 16)
+Iteration k=10,  error residual =0.66012 MAX NORM incre DISPL =1.4991e-05(Rank 9 of 16)
+Iteration k=11,  error residual =0.66012 MAX NORM incre DISPL =5.6761e-06(Rank 9 of 16)
+Iteration k=12,  error residual =0.66012 MAX NORM incre DISPL =2.1491e-06(Rank 9 of 16)
+----------------------------------------
+Removing point =6 (attempt nº 4)
+---------------------------------------
+Iteration k=1,  error residual =0.75926 MAX NORM incre DISPL =0.025505(Rank 9 of 16)
+Iteration k=2,  error residual =0.66561 MAX NORM incre DISPL =0.027716(Rank 9 of 16)
+Iteration k=3,  error residual =0.66133 MAX NORM incre DISPL =0.01251(Rank 9 of 16)
+Iteration k=4,  error residual =0.66032 MAX NORM incre DISPL =0.0049467(Rank 9 of 16)
+Iteration k=5,  error residual =0.66015 MAX NORM incre DISPL =0.0019055(Rank 9 of 16)
+Iteration k=6,  error residual =0.66013 MAX NORM incre DISPL =0.00072645(Rank 9 of 16)
+Iteration k=7,  error residual =0.66012 MAX NORM incre DISPL =0.00027578(Rank 9 of 16)
+Iteration k=8,  error residual =0.66012 MAX NORM incre DISPL =0.00010452(Rank 9 of 16)
+Iteration k=9,  error residual =0.66012 MAX NORM incre DISPL =3.9589e-05(Rank 9 of 16)
+Iteration k=10,  error residual =0.66012 MAX NORM incre DISPL =1.4991e-05(Rank 9 of 16)
+Iteration k=11,  error residual =0.66012 MAX NORM incre DISPL =5.6761e-06(Rank 9 of 16)
+Iteration k=12,  error residual =0.66012 MAX NORM incre DISPL =2.1491e-06(Rank 9 of 16)
+------------------------------------------------------------------------------------------------
+FIRST STAGE: Integration rule with 4 of 16 points
+------------------------------------------------------------------------------------------------
+*********************************************************************************************
+ CUB. RULE  with    3 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+ITER = 1 of 20 Reducing weight point 7 from 1 to 0.95 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.037963 MAX NORM incre DISPL =0.0012753(Rank 9 of 16)
+Iteration k=2,  error residual =0.033329 MAX NORM incre DISPL =5.303e-05(Rank 9 of 16)
+Iteration k=3,  error residual =0.033328 MAX NORM incre DISPL =1.414e-06(Rank 9 of 16)
+Iteration k=4,  error residual =0.033328 MAX NORM incre DISPL =3.7833e-08(Rank 9 of 16)
+Iteration k=5,  error residual =0.033328 MAX NORM incre DISPL =1.0124e-09(Rank 9 of 16)
+Iteration k=6,  error residual =0.033328 MAX NORM incre DISPL =2.7091e-11(Rank 9 of 16)
+Iteration k=7,  error residual =0.033328 MAX NORM incre DISPL =7.2498e-13(Rank 9 of 16)
+Iteration k=8,  error residual =0.033328 MAX NORM incre DISPL =1.9429e-14(Rank 9 of 16)
+Iteration k=9,  error residual =0.033328 MAX NORM incre DISPL =5.5511e-16(Rank 9 of 16)
+Iteration k=10,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=11,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=12,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=13,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=14,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+----------------------------------------
+ITER = 1 of 20 Reducing weight point 8 from 1 to 0.95 (attempt nº 2)
+---------------------------------------
+Iteration k=1,  error residual =0.037963 MAX NORM incre DISPL =0.0012753(Rank 9 of 16)
+Iteration k=2,  error residual =0.033329 MAX NORM incre DISPL =5.303e-05(Rank 9 of 16)
+Iteration k=3,  error residual =0.033328 MAX NORM incre DISPL =1.414e-06(Rank 9 of 16)
+Iteration k=4,  error residual =0.033328 MAX NORM incre DISPL =3.7833e-08(Rank 9 of 16)
+Iteration k=5,  error residual =0.033328 MAX NORM incre DISPL =1.0124e-09(Rank 9 of 16)
+Iteration k=6,  error residual =0.033328 MAX NORM incre DISPL =2.7091e-11(Rank 9 of 16)
+Iteration k=7,  error residual =0.033328 MAX NORM incre DISPL =7.2487e-13(Rank 9 of 16)
+Iteration k=8,  error residual =0.033328 MAX NORM incre DISPL =1.9429e-14(Rank 9 of 16)
+Iteration k=9,  error residual =0.033328 MAX NORM incre DISPL =5.661e-16(Rank 9 of 16)
+Iteration k=10,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=11,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=12,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=13,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=14,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+----------------------------------------
+ITER = 1 of 20 Reducing weight point 9 from 1 to 0.95 (attempt nº 3)
+---------------------------------------
+Iteration k=1,  error residual =0.037963 MAX NORM incre DISPL =0.0012753(Rank 9 of 16)
+Iteration k=2,  error residual =0.033329 MAX NORM incre DISPL =5.303e-05(Rank 9 of 16)
+Iteration k=3,  error residual =0.033328 MAX NORM incre DISPL =1.414e-06(Rank 9 of 16)
+Iteration k=4,  error residual =0.033328 MAX NORM incre DISPL =3.7833e-08(Rank 9 of 16)
+Iteration k=5,  error residual =0.033328 MAX NORM incre DISPL =1.0124e-09(Rank 9 of 16)
+Iteration k=6,  error residual =0.033328 MAX NORM incre DISPL =2.7091e-11(Rank 9 of 16)
+Iteration k=7,  error residual =0.033328 MAX NORM incre DISPL =7.2487e-13(Rank 9 of 16)
+Iteration k=8,  error residual =0.033328 MAX NORM incre DISPL =1.9429e-14(Rank 9 of 16)
+Iteration k=9,  error residual =0.033328 MAX NORM incre DISPL =5.661e-16(Rank 9 of 16)
+Iteration k=10,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=11,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=12,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=13,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=14,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+----------------------------------------
+ITER = 1 of 20 Reducing weight point 6 from 1 to 0.95 (attempt nº 4)
+---------------------------------------
+Iteration k=1,  error residual =0.037963 MAX NORM incre DISPL =0.0012753(Rank 9 of 16)
+Iteration k=2,  error residual =0.033329 MAX NORM incre DISPL =5.303e-05(Rank 9 of 16)
+Iteration k=3,  error residual =0.033328 MAX NORM incre DISPL =1.414e-06(Rank 9 of 16)
+Iteration k=4,  error residual =0.033328 MAX NORM incre DISPL =3.7833e-08(Rank 9 of 16)
+Iteration k=5,  error residual =0.033328 MAX NORM incre DISPL =1.0124e-09(Rank 9 of 16)
+Iteration k=6,  error residual =0.033328 MAX NORM incre DISPL =2.7091e-11(Rank 9 of 16)
+Iteration k=7,  error residual =0.033328 MAX NORM incre DISPL =7.2487e-13(Rank 9 of 16)
+Iteration k=8,  error residual =0.033328 MAX NORM incre DISPL =1.9429e-14(Rank 9 of 16)
+Iteration k=9,  error residual =0.033328 MAX NORM incre DISPL =5.5511e-16(Rank 9 of 16)
+Iteration k=10,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=11,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=12,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=13,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=14,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+------------------------------------------------------------------------------------------------
+SECOND STAGE: Integration rule with 4 of 16 points
+------------------------------------------------------------------------------------------------
+---------------------------------
+Summary
+-------------------------------
+Reduction in first stage: from 16 to 4
+--------------------------------------------------
+Final integration rule with m =4 POINTS  (of 16). . Rank Basis = 16
+--------------------------------------------------
+Integration error
+-------------------------------------------------------
+Error (%) =4.3934e-14
+*******************************************************************************
+MESH CONTAINING THE NEW REDUCED SET OF POINTS
+------------------------------------------------
+PLotting history points (and weights)
+-------------------------------------------
+Employed aspect ratio (plotting purposes):  daspect(1           1         0.5)
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Cannot create 'DATAlagrange2D_p3.mat' because
+'/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/EXAMPLES_2D/WSFILES' does not
+exist.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('CECM_2D', '/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/EXAMPLES_2D/CECM_2D.m', 51)" style="font-weight:bold">CECM_2D</a> (<a href="matlab: opentoline('/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/EXAMPLES_2D/CECM_2D.m',51,0)">line 51</a>)
+    save(NAMEWSstore,'CECMoutput','DATA_AUX','DATA')
+} 
+close all
+CECM_2D
+[Warning: Ill-constructed Boundary COnnectivity Matrix. REmoving repeated elements. ] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ReadMeshFileStr_MULT', '/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/CODE_CECM/FEfunctions/ReadMeshFileStr_MULT.m', 189)" style="font-weight:bold">ReadMeshFileStr_MULT</a> (<a href="matlab: opentoline('/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/CODE_CECM/FEfunctions/ReadMeshFileStr_MULT.m',189,0)">line 189</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DATAlagrange2D_p3', '/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/EXAMPLES_2D/DATAlagrange2D_p3.m', 26)" style="font-weight:bold">DATAlagrange2D_p3</a> (<a href="matlab: opentoline('/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/EXAMPLES_2D/DATAlagrange2D_p3.m',26,0)">line 26</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('CECM_2D', '/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/EXAMPLES_2D/CECM_2D.m', 27)" style="font-weight:bold">CECM_2D</a> (<a href="matlab: opentoline('/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/EXAMPLES_2D/CECM_2D.m',27,0)">line 27</a>)] 
+SVD of Aw 
+Number of left singular vectors  = 16
+k = 1, m=1 ,; error n(res)/n(b) (%) = 89.5830033
+k = 2, m=2 ,; error n(res)/n(b) (%) = 82.19869368
+k = 3, m=3 ,; error n(res)/n(b) (%) = 74.07799014
+k = 4, m=4 ,; error n(res)/n(b) (%) = 65.47396365
+k = 5, m=5 ,; error n(res)/n(b) (%) = 55.56877728
+k = 6, m=6 ,; error n(res)/n(b) (%) = 47.69193114
+k = 7, m=7 ,; error n(res)/n(b) (%) = 38.45339898
+k = 8, m=8 ,; error n(res)/n(b) (%) = 27.20329279
+k = 9, m=9 ,; error n(res)/n(b) (%) = 1.410216071
+k = 10, m=10 ,; error n(res)/n(b) (%) = 1.122989228
+k = 11, m=11 ,; error n(res)/n(b) (%) = 0.9665878364
+k = 12, m=12 ,; error n(res)/n(b) (%) = 0.5742295663
+k = 13, m=13 ,; error n(res)/n(b) (%) = 0.2774116436
+k = 14, m=14 ,; error n(res)/n(b) (%) = 0.1806101608
+k = 15, m=15 ,; error n(res)/n(b) (%) = 0.007137863118
+k = 16, m=16 ,; error n(res)/n(b) (%) = 5.855469401e-14
+Total number of iterations =17
+****************************+
+List of selected m = 16 elements
+455  325  725  126  526  827   28  634  238  601   53  784  877  376  651    4
+----------------------------------------------------------------------------------------
+Integration Error associated to the SVD =1.341e-13 % (for a SVD tolerance =0 )
+----------------------------------------------------------------------------------------
+Actual integration error using DECM= 1.6106e-13 % (prescribed tolerance fint =0%
+--------------------------------------------
+Integration appr. error at k= 0 -->4.1075e-13 %(  it measures the quality in evaluating the function via   fitting, if any)
+*********************************************************************************************
+ CUB. RULE  with    15 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =16 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.00010259 MAX NORM incre DISPL =0.00011159
+Iteration k=2,  error residual =4.4089e-08 MAX NORM incre DISPL =5.0941e-08
+Iteration k=3,  error residual =9.0167e-15 MAX NORM incre DISPL =7.8826e-15
+*********************************************************************************************
+ CUB. RULE  with    14 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =14 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.0034731 MAX NORM incre DISPL =0.0033869
+Iteration k=2,  error residual =5.5609e-05 MAX NORM incre DISPL =3.8964e-05
+Iteration k=3,  error residual =8.2011e-09 MAX NORM incre DISPL =3.1371e-09
+*********************************************************************************************
+ CUB. RULE  with    13 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =15 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.0030686 MAX NORM incre DISPL =0.002053
+Iteration k=2,  error residual =3.3707e-05 MAX NORM incre DISPL =2.3148e-05
+Iteration k=3,  error residual =1.0251e-09 MAX NORM incre DISPL =5.8958e-10
+*********************************************************************************************
+ CUB. RULE  with    12 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =13 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.0068806 MAX NORM incre DISPL =0.0065432
+Iteration k=2,  error residual =0.000163 MAX NORM incre DISPL =0.0001237
+Iteration k=3,  error residual =3.9966e-08 MAX NORM incre DISPL =2.376e-08
+Iteration k=4,  error residual =8.9461e-16 MAX NORM incre DISPL =5.5511e-16
+*********************************************************************************************
+ CUB. RULE  with    11 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =11 (attempt nº 1)
+---------------------------------------
+Found 1 negative weights
+Iteration k=1,  error residual =0.01039 MAX NORM incre DISPL =0.0093824
+Found 1 negative weights
+Iteration k=2,  error residual =0.00047824 MAX NORM incre DISPL =0.00037634
+Found 1 negative weights
+Iteration k=3,  error residual =6.6314e-07 MAX NORM incre DISPL =3.9245e-07
+Found 1 negative weights
+Iteration k=4,  error residual =4.3425e-13 MAX NORM incre DISPL =2.387e-13
+*********************************************************************************************
+ CUB. RULE  with    10 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =10 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.0067047 MAX NORM incre DISPL =0.015004
+Found 1 negative weights
+Iteration k=2,  error residual =0.00051173 MAX NORM incre DISPL =0.0016362
+Found 1 negative weights
+Iteration k=3,  error residual =9.4965e-06 MAX NORM incre DISPL =8.2373e-06
+Found 1 negative weights
+Iteration k=4,  error residual =4.1688e-10 MAX NORM incre DISPL =2.1416e-10
+*********************************************************************************************
+ CUB. RULE  with    9 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =12 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.0019797 MAX NORM incre DISPL =0.0055617
+Iteration k=2,  error residual =0.00013434 MAX NORM incre DISPL =5.2472e-05
+Iteration k=3,  error residual =4.3254e-09 MAX NORM incre DISPL =3.6333e-09
+*********************************************************************************************
+ CUB. RULE  with    8 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =8 (attempt nº 1)
+---------------------------------------
+Found 2 negative weights
+Points: 3  4  7  9 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Iteration k=1,  error residual =0.27367 MAX NORM incre DISPL =0
+Found 4 negative weights
+Points: 1  2  5  6 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=2,  error residual =0.27367 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =7 (attempt nº 2)
+---------------------------------------
+Found 1 negative weights
+Points: 3  4  6  8 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Iteration k=1,  error residual =0.27179 MAX NORM incre DISPL =0
+Found 3 negative weights
+Points: 1  2  5  9 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=2,  error residual =0.27179 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =6 (attempt nº 3)
+---------------------------------------
+Found 2 negative weights
+Points: 2  5  7  8 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Iteration k=1,  error residual =0.27486 MAX NORM incre DISPL =0
+Found 4 negative weights
+Points: 1  3  4  9 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=2,  error residual =0.27486 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =9 (attempt nº 4)
+---------------------------------------
+Found 2 negative weights
+Points: 1  2  5  7  8 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=1,  error residual =0.27307 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =2 (attempt nº 5)
+---------------------------------------
+Iteration k=1,  error residual =0.36645 MAX NORM incre DISPL =0.35293
+Iteration k=2,  error residual =0.26983 MAX NORM incre DISPL =0.17005
+Iteration k=3,  error residual =0.053208 MAX NORM incre DISPL =0.029058
+Iteration k=4,  error residual =0.00229 MAX NORM incre DISPL =0.0012058
+Iteration k=5,  error residual =3.1797e-06 MAX NORM incre DISPL =1.5963e-06
+Iteration k=6,  error residual =6.7275e-12 MAX NORM incre DISPL =2.9265e-12
+*********************************************************************************************
+ CUB. RULE  with    7 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =6 (attempt nº 1)
+---------------------------------------
+Found 2 negative weights
+Points: 1  3  4  5  7  8  9 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=1,  error residual =0.27474 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =9 (attempt nº 2)
+---------------------------------------
+Found 2 negative weights
+Points: 1  3  5  6  7  8 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=1,  error residual =0.27315 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =5 (attempt nº 3)
+---------------------------------------
+Iteration k=1,  error residual =0.37174 MAX NORM incre DISPL =0.36657
+Iteration k=2,  error residual =0.25402 MAX NORM incre DISPL =0.16956
+Iteration k=3,  error residual =0.047757 MAX NORM incre DISPL =0.024659
+Iteration k=4,  error residual =0.0010423 MAX NORM incre DISPL =0.00056932
+Iteration k=5,  error residual =6.0413e-07 MAX NORM incre DISPL =2.6864e-07
+Iteration k=6,  error residual =3.1635e-13 MAX NORM incre DISPL =1.9814e-13
+*********************************************************************************************
+ CUB. RULE  with    6 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =3 (attempt nº 1)
+---------------------------------------
+Points: 7  9 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=1,  error residual =0.37016 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =4 (attempt nº 2)
+---------------------------------------
+Points: 3  6  8 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=1,  error residual =0.37243 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =1 (attempt nº 3)
+---------------------------------------
+Iteration k=1,  error residual =0.51918 MAX NORM incre DISPL =0.19626
+Iteration k=2,  error residual =0.14565 MAX NORM incre DISPL =0.045607
+Iteration k=3,  error residual =0.0050766 MAX NORM incre DISPL =0.0017085
+Iteration k=4,  error residual =6.7369e-06 MAX NORM incre DISPL =2.6532e-06
+Iteration k=5,  error residual =1.7738e-11 MAX NORM incre DISPL =4.7349e-12(Rank 14 of 16)
+*********************************************************************************************
+ CUB. RULE  with    5 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =3 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.31721 MAX NORM incre DISPL =0.10757(Rank 13 of 16)
+Iteration k=2,  error residual =0.067025 MAX NORM incre DISPL =0.020936(Rank 13 of 16)
+Iteration k=3,  error residual =0.0012491 MAX NORM incre DISPL =0.00041217(Rank 13 of 16)
+Iteration k=4,  error residual =4.8117e-07 MAX NORM incre DISPL =1.7933e-07(Rank 13 of 16)
+Iteration k=5,  error residual =1.1233e-13 MAX NORM incre DISPL =2.6534e-14(Rank 13 of 16)
+*********************************************************************************************
+ CUB. RULE  with    4 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =4 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.31854 MAX NORM incre DISPL =0.10824(Rank 12 of 16)
+Iteration k=2,  error residual =0.067726 MAX NORM incre DISPL =0.021164(Rank 12 of 16)
+Iteration k=3,  error residual =0.0012763 MAX NORM incre DISPL =0.00042116(Rank 12 of 16)
+Iteration k=4,  error residual =5.0236e-07 MAX NORM incre DISPL =1.8721e-07(Rank 12 of 16)
+Iteration k=5,  error residual =1.2191e-13 MAX NORM incre DISPL =2.8866e-14(Rank 12 of 16)
+*********************************************************************************************
+ CUB. RULE  with    3 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =7 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.75926 MAX NORM incre DISPL =0.025505(Rank 9 of 16)
+Iteration k=2,  error residual =0.66561 MAX NORM incre DISPL =0.027716(Rank 9 of 16)
+Iteration k=3,  error residual =0.66133 MAX NORM incre DISPL =0.01251(Rank 9 of 16)
+Iteration k=4,  error residual =0.66032 MAX NORM incre DISPL =0.0049467(Rank 9 of 16)
+Iteration k=5,  error residual =0.66015 MAX NORM incre DISPL =0.0019055(Rank 9 of 16)
+Iteration k=6,  error residual =0.66013 MAX NORM incre DISPL =0.00072645(Rank 9 of 16)
+Iteration k=7,  error residual =0.66012 MAX NORM incre DISPL =0.00027578(Rank 9 of 16)
+Iteration k=8,  error residual =0.66012 MAX NORM incre DISPL =0.00010452(Rank 9 of 16)
+Iteration k=9,  error residual =0.66012 MAX NORM incre DISPL =3.9589e-05(Rank 9 of 16)
+Iteration k=10,  error residual =0.66012 MAX NORM incre DISPL =1.4991e-05(Rank 9 of 16)
+Iteration k=11,  error residual =0.66012 MAX NORM incre DISPL =5.6761e-06(Rank 9 of 16)
+Iteration k=12,  error residual =0.66012 MAX NORM incre DISPL =2.1491e-06(Rank 9 of 16)
+----------------------------------------
+Removing point =8 (attempt nº 2)
+---------------------------------------
+Iteration k=1,  error residual =0.75926 MAX NORM incre DISPL =0.025505(Rank 9 of 16)
+Iteration k=2,  error residual =0.66561 MAX NORM incre DISPL =0.027716(Rank 9 of 16)
+Iteration k=3,  error residual =0.66133 MAX NORM incre DISPL =0.01251(Rank 9 of 16)
+Iteration k=4,  error residual =0.66032 MAX NORM incre DISPL =0.0049467(Rank 9 of 16)
+Iteration k=5,  error residual =0.66015 MAX NORM incre DISPL =0.0019055(Rank 9 of 16)
+Iteration k=6,  error residual =0.66013 MAX NORM incre DISPL =0.00072645(Rank 9 of 16)
+Iteration k=7,  error residual =0.66012 MAX NORM incre DISPL =0.00027578(Rank 9 of 16)
+Iteration k=8,  error residual =0.66012 MAX NORM incre DISPL =0.00010452(Rank 9 of 16)
+Iteration k=9,  error residual =0.66012 MAX NORM incre DISPL =3.9589e-05(Rank 9 of 16)
+Iteration k=10,  error residual =0.66012 MAX NORM incre DISPL =1.4991e-05(Rank 9 of 16)
+Iteration k=11,  error residual =0.66012 MAX NORM incre DISPL =5.6761e-06(Rank 9 of 16)
+Iteration k=12,  error residual =0.66012 MAX NORM incre DISPL =2.1491e-06(Rank 9 of 16)
+----------------------------------------
+Removing point =9 (attempt nº 3)
+---------------------------------------
+Iteration k=1,  error residual =0.75926 MAX NORM incre DISPL =0.025505(Rank 9 of 16)
+Iteration k=2,  error residual =0.66561 MAX NORM incre DISPL =0.027716(Rank 9 of 16)
+Iteration k=3,  error residual =0.66133 MAX NORM incre DISPL =0.01251(Rank 9 of 16)
+Iteration k=4,  error residual =0.66032 MAX NORM incre DISPL =0.0049467(Rank 9 of 16)
+Iteration k=5,  error residual =0.66015 MAX NORM incre DISPL =0.0019055(Rank 9 of 16)
+Iteration k=6,  error residual =0.66013 MAX NORM incre DISPL =0.00072645(Rank 9 of 16)
+Iteration k=7,  error residual =0.66012 MAX NORM incre DISPL =0.00027578(Rank 9 of 16)
+Iteration k=8,  error residual =0.66012 MAX NORM incre DISPL =0.00010452(Rank 9 of 16)
+Iteration k=9,  error residual =0.66012 MAX NORM incre DISPL =3.9589e-05(Rank 9 of 16)
+Iteration k=10,  error residual =0.66012 MAX NORM incre DISPL =1.4991e-05(Rank 9 of 16)
+Iteration k=11,  error residual =0.66012 MAX NORM incre DISPL =5.6761e-06(Rank 9 of 16)
+Iteration k=12,  error residual =0.66012 MAX NORM incre DISPL =2.1491e-06(Rank 9 of 16)
+----------------------------------------
+Removing point =6 (attempt nº 4)
+---------------------------------------
+Iteration k=1,  error residual =0.75926 MAX NORM incre DISPL =0.025505(Rank 9 of 16)
+Iteration k=2,  error residual =0.66561 MAX NORM incre DISPL =0.027716(Rank 9 of 16)
+Iteration k=3,  error residual =0.66133 MAX NORM incre DISPL =0.01251(Rank 9 of 16)
+Iteration k=4,  error residual =0.66032 MAX NORM incre DISPL =0.0049467(Rank 9 of 16)
+Iteration k=5,  error residual =0.66015 MAX NORM incre DISPL =0.0019055(Rank 9 of 16)
+Iteration k=6,  error residual =0.66013 MAX NORM incre DISPL =0.00072645(Rank 9 of 16)
+Iteration k=7,  error residual =0.66012 MAX NORM incre DISPL =0.00027578(Rank 9 of 16)
+Iteration k=8,  error residual =0.66012 MAX NORM incre DISPL =0.00010452(Rank 9 of 16)
+Iteration k=9,  error residual =0.66012 MAX NORM incre DISPL =3.9589e-05(Rank 9 of 16)
+Iteration k=10,  error residual =0.66012 MAX NORM incre DISPL =1.4991e-05(Rank 9 of 16)
+Iteration k=11,  error residual =0.66012 MAX NORM incre DISPL =5.6761e-06(Rank 9 of 16)
+Iteration k=12,  error residual =0.66012 MAX NORM incre DISPL =2.1491e-06(Rank 9 of 16)
+------------------------------------------------------------------------------------------------
+FIRST STAGE: Integration rule with 4 of 16 points
+------------------------------------------------------------------------------------------------
+*********************************************************************************************
+ CUB. RULE  with    3 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+ITER = 1 of 20 Reducing weight point 7 from 1 to 0.95 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.037963 MAX NORM incre DISPL =0.0012753(Rank 9 of 16)
+Iteration k=2,  error residual =0.033329 MAX NORM incre DISPL =5.303e-05(Rank 9 of 16)
+Iteration k=3,  error residual =0.033328 MAX NORM incre DISPL =1.414e-06(Rank 9 of 16)
+Iteration k=4,  error residual =0.033328 MAX NORM incre DISPL =3.7833e-08(Rank 9 of 16)
+Iteration k=5,  error residual =0.033328 MAX NORM incre DISPL =1.0124e-09(Rank 9 of 16)
+Iteration k=6,  error residual =0.033328 MAX NORM incre DISPL =2.7091e-11(Rank 9 of 16)
+Iteration k=7,  error residual =0.033328 MAX NORM incre DISPL =7.2498e-13(Rank 9 of 16)
+Iteration k=8,  error residual =0.033328 MAX NORM incre DISPL =1.9429e-14(Rank 9 of 16)
+Iteration k=9,  error residual =0.033328 MAX NORM incre DISPL =5.5511e-16(Rank 9 of 16)
+Iteration k=10,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=11,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=12,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=13,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=14,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+----------------------------------------
+ITER = 1 of 20 Reducing weight point 8 from 1 to 0.95 (attempt nº 2)
+---------------------------------------
+Iteration k=1,  error residual =0.037963 MAX NORM incre DISPL =0.0012753(Rank 9 of 16)
+Iteration k=2,  error residual =0.033329 MAX NORM incre DISPL =5.303e-05(Rank 9 of 16)
+Iteration k=3,  error residual =0.033328 MAX NORM incre DISPL =1.414e-06(Rank 9 of 16)
+Iteration k=4,  error residual =0.033328 MAX NORM incre DISPL =3.7833e-08(Rank 9 of 16)
+Iteration k=5,  error residual =0.033328 MAX NORM incre DISPL =1.0124e-09(Rank 9 of 16)
+Iteration k=6,  error residual =0.033328 MAX NORM incre DISPL =2.7091e-11(Rank 9 of 16)
+Iteration k=7,  error residual =0.033328 MAX NORM incre DISPL =7.2487e-13(Rank 9 of 16)
+Iteration k=8,  error residual =0.033328 MAX NORM incre DISPL =1.9429e-14(Rank 9 of 16)
+Iteration k=9,  error residual =0.033328 MAX NORM incre DISPL =5.661e-16(Rank 9 of 16)
+Iteration k=10,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=11,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=12,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=13,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=14,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+----------------------------------------
+ITER = 1 of 20 Reducing weight point 9 from 1 to 0.95 (attempt nº 3)
+---------------------------------------
+Iteration k=1,  error residual =0.037963 MAX NORM incre DISPL =0.0012753(Rank 9 of 16)
+Iteration k=2,  error residual =0.033329 MAX NORM incre DISPL =5.303e-05(Rank 9 of 16)
+Iteration k=3,  error residual =0.033328 MAX NORM incre DISPL =1.414e-06(Rank 9 of 16)
+Iteration k=4,  error residual =0.033328 MAX NORM incre DISPL =3.7833e-08(Rank 9 of 16)
+Iteration k=5,  error residual =0.033328 MAX NORM incre DISPL =1.0124e-09(Rank 9 of 16)
+Iteration k=6,  error residual =0.033328 MAX NORM incre DISPL =2.7091e-11(Rank 9 of 16)
+Iteration k=7,  error residual =0.033328 MAX NORM incre DISPL =7.2487e-13(Rank 9 of 16)
+Iteration k=8,  error residual =0.033328 MAX NORM incre DISPL =1.9429e-14(Rank 9 of 16)
+Iteration k=9,  error residual =0.033328 MAX NORM incre DISPL =5.661e-16(Rank 9 of 16)
+Iteration k=10,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=11,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=12,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=13,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=14,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+----------------------------------------
+ITER = 1 of 20 Reducing weight point 6 from 1 to 0.95 (attempt nº 4)
+---------------------------------------
+Iteration k=1,  error residual =0.037963 MAX NORM incre DISPL =0.0012753(Rank 9 of 16)
+Iteration k=2,  error residual =0.033329 MAX NORM incre DISPL =5.303e-05(Rank 9 of 16)
+Iteration k=3,  error residual =0.033328 MAX NORM incre DISPL =1.414e-06(Rank 9 of 16)
+Iteration k=4,  error residual =0.033328 MAX NORM incre DISPL =3.7833e-08(Rank 9 of 16)
+Iteration k=5,  error residual =0.033328 MAX NORM incre DISPL =1.0124e-09(Rank 9 of 16)
+Iteration k=6,  error residual =0.033328 MAX NORM incre DISPL =2.7091e-11(Rank 9 of 16)
+Iteration k=7,  error residual =0.033328 MAX NORM incre DISPL =7.2487e-13(Rank 9 of 16)
+Iteration k=8,  error residual =0.033328 MAX NORM incre DISPL =1.9429e-14(Rank 9 of 16)
+Iteration k=9,  error residual =0.033328 MAX NORM incre DISPL =5.5511e-16(Rank 9 of 16)
+Iteration k=10,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=11,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=12,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=13,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=14,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+------------------------------------------------------------------------------------------------
+SECOND STAGE: Integration rule with 4 of 16 points
+------------------------------------------------------------------------------------------------
+---------------------------------
+Summary
+-------------------------------
+Reduction in first stage: from 16 to 4
+--------------------------------------------------
+Final integration rule with m =4 POINTS  (of 16). . Rank Basis = 16
+--------------------------------------------------
+Integration error
+-------------------------------------------------------
+Error (%) =4.3934e-14
+*******************************************************************************
+MESH CONTAINING THE NEW REDUCED SET OF POINTS
+------------------------------------------------
+PLotting history points (and weights)
+-------------------------------------------
+Employed aspect ratio (plotting purposes):  daspect(1           1         0.5)
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('save')" style="font-weight:bold">save</a>
+Cannot create 'DATAlagrange2D_p3.mat' because
+'/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/EXAMPLES_2D/WSFILES' does not
+exist.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('CECM_2D', '/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/EXAMPLES_2D/CECM_2D.m', 51)" style="font-weight:bold">CECM_2D</a> (<a href="matlab: opentoline('/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/EXAMPLES_2D/CECM_2D.m',51,0)">line 51</a>)
+    save(NAMEWSstore,'CECMoutput','DATA_AUX','DATA')
+} 
+
+>> 
+ >> 
+ ↑
+{Error: Invalid use of operator.
+} 
+
+close all
+CECM_2D
+[Warning: Ill-constructed Boundary COnnectivity Matrix. REmoving repeated elements. ] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ReadMeshFileStr_MULT', '/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/CODE_CECM/FEfunctions/ReadMeshFileStr_MULT.m', 189)" style="font-weight:bold">ReadMeshFileStr_MULT</a> (<a href="matlab: opentoline('/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/CODE_CECM/FEfunctions/ReadMeshFileStr_MULT.m',189,0)">line 189</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('DATAlagrange2D_p3', '/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/EXAMPLES_2D/DATAlagrange2D_p3.m', 26)" style="font-weight:bold">DATAlagrange2D_p3</a> (<a href="matlab: opentoline('/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/EXAMPLES_2D/DATAlagrange2D_p3.m',26,0)">line 26</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('CECM_2D', '/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/EXAMPLES_2D/CECM_2D.m', 27)" style="font-weight:bold">CECM_2D</a> (<a href="matlab: opentoline('/home/joaquin/Desktop/CURRENT_TASKS/PAPERS_2020_onwards/10_CECM_to_be_sent/MATLAB_EXAMPLES_CODE/EXAMPLES_2D/CECM_2D.m',27,0)">line 27</a>)] 
+SVD of Aw 
+Number of left singular vectors  = 16
+k = 1, m=1 ,; error n(res)/n(b) (%) = 89.5830033
+k = 2, m=2 ,; error n(res)/n(b) (%) = 82.19869368
+k = 3, m=3 ,; error n(res)/n(b) (%) = 74.07799014
+k = 4, m=4 ,; error n(res)/n(b) (%) = 65.47396365
+k = 5, m=5 ,; error n(res)/n(b) (%) = 55.56877728
+k = 6, m=6 ,; error n(res)/n(b) (%) = 47.69193114
+k = 7, m=7 ,; error n(res)/n(b) (%) = 38.45339898
+k = 8, m=8 ,; error n(res)/n(b) (%) = 27.20329279
+k = 9, m=9 ,; error n(res)/n(b) (%) = 1.410216071
+k = 10, m=10 ,; error n(res)/n(b) (%) = 1.122989228
+k = 11, m=11 ,; error n(res)/n(b) (%) = 0.9665878364
+k = 12, m=12 ,; error n(res)/n(b) (%) = 0.5742295663
+k = 13, m=13 ,; error n(res)/n(b) (%) = 0.2774116436
+k = 14, m=14 ,; error n(res)/n(b) (%) = 0.1806101608
+k = 15, m=15 ,; error n(res)/n(b) (%) = 0.007137863118
+k = 16, m=16 ,; error n(res)/n(b) (%) = 5.855469401e-14
+Total number of iterations =17
+****************************+
+List of selected m = 16 elements
+455  325  725  126  526  827   28  634  238  601   53  784  877  376  651    4
+----------------------------------------------------------------------------------------
+Integration Error associated to the SVD =1.341e-13 % (for a SVD tolerance =0 )
+----------------------------------------------------------------------------------------
+Actual integration error using DECM= 1.6106e-13 % (prescribed tolerance fint =0%
+--------------------------------------------
+Integration appr. error at k= 0 -->4.1075e-13 %(  it measures the quality in evaluating the function via   fitting, if any)
+*********************************************************************************************
+ CUB. RULE  with    15 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =16 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.00010259 MAX NORM incre DISPL =0.00011159
+Iteration k=2,  error residual =4.4089e-08 MAX NORM incre DISPL =5.0941e-08
+Iteration k=3,  error residual =9.0167e-15 MAX NORM incre DISPL =7.8826e-15
+*********************************************************************************************
+ CUB. RULE  with    14 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =14 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.0034731 MAX NORM incre DISPL =0.0033869
+Iteration k=2,  error residual =5.5609e-05 MAX NORM incre DISPL =3.8964e-05
+Iteration k=3,  error residual =8.2011e-09 MAX NORM incre DISPL =3.1371e-09
+*********************************************************************************************
+ CUB. RULE  with    13 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =15 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.0030686 MAX NORM incre DISPL =0.002053
+Iteration k=2,  error residual =3.3707e-05 MAX NORM incre DISPL =2.3148e-05
+Iteration k=3,  error residual =1.0251e-09 MAX NORM incre DISPL =5.8958e-10
+*********************************************************************************************
+ CUB. RULE  with    12 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =13 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.0068806 MAX NORM incre DISPL =0.0065432
+Iteration k=2,  error residual =0.000163 MAX NORM incre DISPL =0.0001237
+Iteration k=3,  error residual =3.9966e-08 MAX NORM incre DISPL =2.376e-08
+Iteration k=4,  error residual =8.9461e-16 MAX NORM incre DISPL =5.5511e-16
+*********************************************************************************************
+ CUB. RULE  with    11 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =11 (attempt nº 1)
+---------------------------------------
+Found 1 negative weights
+Iteration k=1,  error residual =0.01039 MAX NORM incre DISPL =0.0093824
+Found 1 negative weights
+Iteration k=2,  error residual =0.00047824 MAX NORM incre DISPL =0.00037634
+Found 1 negative weights
+Iteration k=3,  error residual =6.6314e-07 MAX NORM incre DISPL =3.9245e-07
+Found 1 negative weights
+Iteration k=4,  error residual =4.3425e-13 MAX NORM incre DISPL =2.387e-13
+*********************************************************************************************
+ CUB. RULE  with    10 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =10 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.0067047 MAX NORM incre DISPL =0.015004
+Found 1 negative weights
+Iteration k=2,  error residual =0.00051173 MAX NORM incre DISPL =0.0016362
+Found 1 negative weights
+Iteration k=3,  error residual =9.4965e-06 MAX NORM incre DISPL =8.2373e-06
+Found 1 negative weights
+Iteration k=4,  error residual =4.1688e-10 MAX NORM incre DISPL =2.1416e-10
+*********************************************************************************************
+ CUB. RULE  with    9 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =12 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.0019797 MAX NORM incre DISPL =0.0055617
+Iteration k=2,  error residual =0.00013434 MAX NORM incre DISPL =5.2472e-05
+Iteration k=3,  error residual =4.3254e-09 MAX NORM incre DISPL =3.6333e-09
+*********************************************************************************************
+ CUB. RULE  with    8 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =8 (attempt nº 1)
+---------------------------------------
+Found 2 negative weights
+Points: 3  4  7  9 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Iteration k=1,  error residual =0.27367 MAX NORM incre DISPL =0
+Found 4 negative weights
+Points: 1  2  5  6 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=2,  error residual =0.27367 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =7 (attempt nº 2)
+---------------------------------------
+Found 1 negative weights
+Points: 3  4  6  8 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Iteration k=1,  error residual =0.27179 MAX NORM incre DISPL =0
+Found 3 negative weights
+Points: 1  2  5  9 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=2,  error residual =0.27179 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =6 (attempt nº 3)
+---------------------------------------
+Found 2 negative weights
+Points: 2  5  7  8 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Iteration k=1,  error residual =0.27486 MAX NORM incre DISPL =0
+Found 4 negative weights
+Points: 1  3  4  9 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=2,  error residual =0.27486 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =9 (attempt nº 4)
+---------------------------------------
+Found 2 negative weights
+Points: 1  2  5  7  8 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=1,  error residual =0.27307 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =2 (attempt nº 5)
+---------------------------------------
+Iteration k=1,  error residual =0.36645 MAX NORM incre DISPL =0.35293
+Iteration k=2,  error residual =0.26983 MAX NORM incre DISPL =0.17005
+Iteration k=3,  error residual =0.053208 MAX NORM incre DISPL =0.029058
+Iteration k=4,  error residual =0.00229 MAX NORM incre DISPL =0.0012058
+Iteration k=5,  error residual =3.1797e-06 MAX NORM incre DISPL =1.5963e-06
+Iteration k=6,  error residual =6.7275e-12 MAX NORM incre DISPL =2.9265e-12
+*********************************************************************************************
+ CUB. RULE  with    7 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =6 (attempt nº 1)
+---------------------------------------
+Found 2 negative weights
+Points: 1  3  4  5  7  8  9 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=1,  error residual =0.27474 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =9 (attempt nº 2)
+---------------------------------------
+Found 2 negative weights
+Points: 1  3  5  6  7  8 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=1,  error residual =0.27315 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =5 (attempt nº 3)
+---------------------------------------
+Iteration k=1,  error residual =0.37174 MAX NORM incre DISPL =0.36657
+Iteration k=2,  error residual =0.25402 MAX NORM incre DISPL =0.16956
+Iteration k=3,  error residual =0.047757 MAX NORM incre DISPL =0.024659
+Iteration k=4,  error residual =0.0010423 MAX NORM incre DISPL =0.00056932
+Iteration k=5,  error residual =6.0413e-07 MAX NORM incre DISPL =2.6864e-07
+Iteration k=6,  error residual =3.1635e-13 MAX NORM incre DISPL =1.9814e-13
+*********************************************************************************************
+ CUB. RULE  with    6 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =3 (attempt nº 1)
+---------------------------------------
+Points: 7  9 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=1,  error residual =0.37016 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =4 (attempt nº 2)
+---------------------------------------
+Points: 3  6  8 are outside   the domain ....
+Repeating the iteration by freezing the position of   points outside or in critical regions  
+Number of design variables below number of equations...Getting out
+Iteration k=1,  error residual =0.37243 MAX NORM incre DISPL =0
+----------------------------------------
+Removing point =1 (attempt nº 3)
+---------------------------------------
+Iteration k=1,  error residual =0.51918 MAX NORM incre DISPL =0.19626
+Iteration k=2,  error residual =0.14565 MAX NORM incre DISPL =0.045607
+Iteration k=3,  error residual =0.0050766 MAX NORM incre DISPL =0.0017085
+Iteration k=4,  error residual =6.7369e-06 MAX NORM incre DISPL =2.6532e-06
+Iteration k=5,  error residual =1.7738e-11 MAX NORM incre DISPL =4.7349e-12(Rank 14 of 16)
+*********************************************************************************************
+ CUB. RULE  with    5 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =3 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.31721 MAX NORM incre DISPL =0.10757(Rank 13 of 16)
+Iteration k=2,  error residual =0.067025 MAX NORM incre DISPL =0.020936(Rank 13 of 16)
+Iteration k=3,  error residual =0.0012491 MAX NORM incre DISPL =0.00041217(Rank 13 of 16)
+Iteration k=4,  error residual =4.8117e-07 MAX NORM incre DISPL =1.7933e-07(Rank 13 of 16)
+Iteration k=5,  error residual =1.1233e-13 MAX NORM incre DISPL =2.6534e-14(Rank 13 of 16)
+*********************************************************************************************
+ CUB. RULE  with    4 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =4 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.31854 MAX NORM incre DISPL =0.10824(Rank 12 of 16)
+Iteration k=2,  error residual =0.067726 MAX NORM incre DISPL =0.021164(Rank 12 of 16)
+Iteration k=3,  error residual =0.0012763 MAX NORM incre DISPL =0.00042116(Rank 12 of 16)
+Iteration k=4,  error residual =5.0236e-07 MAX NORM incre DISPL =1.8721e-07(Rank 12 of 16)
+Iteration k=5,  error residual =1.2191e-13 MAX NORM incre DISPL =2.8866e-14(Rank 12 of 16)
+*********************************************************************************************
+ CUB. RULE  with    3 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+Removing point =7 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.75926 MAX NORM incre DISPL =0.025505(Rank 9 of 16)
+Iteration k=2,  error residual =0.66561 MAX NORM incre DISPL =0.027716(Rank 9 of 16)
+Iteration k=3,  error residual =0.66133 MAX NORM incre DISPL =0.01251(Rank 9 of 16)
+Iteration k=4,  error residual =0.66032 MAX NORM incre DISPL =0.0049467(Rank 9 of 16)
+Iteration k=5,  error residual =0.66015 MAX NORM incre DISPL =0.0019055(Rank 9 of 16)
+Iteration k=6,  error residual =0.66013 MAX NORM incre DISPL =0.00072645(Rank 9 of 16)
+Iteration k=7,  error residual =0.66012 MAX NORM incre DISPL =0.00027578(Rank 9 of 16)
+Iteration k=8,  error residual =0.66012 MAX NORM incre DISPL =0.00010452(Rank 9 of 16)
+Iteration k=9,  error residual =0.66012 MAX NORM incre DISPL =3.9589e-05(Rank 9 of 16)
+Iteration k=10,  error residual =0.66012 MAX NORM incre DISPL =1.4991e-05(Rank 9 of 16)
+Iteration k=11,  error residual =0.66012 MAX NORM incre DISPL =5.6761e-06(Rank 9 of 16)
+Iteration k=12,  error residual =0.66012 MAX NORM incre DISPL =2.1491e-06(Rank 9 of 16)
+----------------------------------------
+Removing point =8 (attempt nº 2)
+---------------------------------------
+Iteration k=1,  error residual =0.75926 MAX NORM incre DISPL =0.025505(Rank 9 of 16)
+Iteration k=2,  error residual =0.66561 MAX NORM incre DISPL =0.027716(Rank 9 of 16)
+Iteration k=3,  error residual =0.66133 MAX NORM incre DISPL =0.01251(Rank 9 of 16)
+Iteration k=4,  error residual =0.66032 MAX NORM incre DISPL =0.0049467(Rank 9 of 16)
+Iteration k=5,  error residual =0.66015 MAX NORM incre DISPL =0.0019055(Rank 9 of 16)
+Iteration k=6,  error residual =0.66013 MAX NORM incre DISPL =0.00072645(Rank 9 of 16)
+Iteration k=7,  error residual =0.66012 MAX NORM incre DISPL =0.00027578(Rank 9 of 16)
+Iteration k=8,  error residual =0.66012 MAX NORM incre DISPL =0.00010452(Rank 9 of 16)
+Iteration k=9,  error residual =0.66012 MAX NORM incre DISPL =3.9589e-05(Rank 9 of 16)
+Iteration k=10,  error residual =0.66012 MAX NORM incre DISPL =1.4991e-05(Rank 9 of 16)
+Iteration k=11,  error residual =0.66012 MAX NORM incre DISPL =5.6761e-06(Rank 9 of 16)
+Iteration k=12,  error residual =0.66012 MAX NORM incre DISPL =2.1491e-06(Rank 9 of 16)
+----------------------------------------
+Removing point =9 (attempt nº 3)
+---------------------------------------
+Iteration k=1,  error residual =0.75926 MAX NORM incre DISPL =0.025505(Rank 9 of 16)
+Iteration k=2,  error residual =0.66561 MAX NORM incre DISPL =0.027716(Rank 9 of 16)
+Iteration k=3,  error residual =0.66133 MAX NORM incre DISPL =0.01251(Rank 9 of 16)
+Iteration k=4,  error residual =0.66032 MAX NORM incre DISPL =0.0049467(Rank 9 of 16)
+Iteration k=5,  error residual =0.66015 MAX NORM incre DISPL =0.0019055(Rank 9 of 16)
+Iteration k=6,  error residual =0.66013 MAX NORM incre DISPL =0.00072645(Rank 9 of 16)
+Iteration k=7,  error residual =0.66012 MAX NORM incre DISPL =0.00027578(Rank 9 of 16)
+Iteration k=8,  error residual =0.66012 MAX NORM incre DISPL =0.00010452(Rank 9 of 16)
+Iteration k=9,  error residual =0.66012 MAX NORM incre DISPL =3.9589e-05(Rank 9 of 16)
+Iteration k=10,  error residual =0.66012 MAX NORM incre DISPL =1.4991e-05(Rank 9 of 16)
+Iteration k=11,  error residual =0.66012 MAX NORM incre DISPL =5.6761e-06(Rank 9 of 16)
+Iteration k=12,  error residual =0.66012 MAX NORM incre DISPL =2.1491e-06(Rank 9 of 16)
+----------------------------------------
+Removing point =6 (attempt nº 4)
+---------------------------------------
+Iteration k=1,  error residual =0.75926 MAX NORM incre DISPL =0.025505(Rank 9 of 16)
+Iteration k=2,  error residual =0.66561 MAX NORM incre DISPL =0.027716(Rank 9 of 16)
+Iteration k=3,  error residual =0.66133 MAX NORM incre DISPL =0.01251(Rank 9 of 16)
+Iteration k=4,  error residual =0.66032 MAX NORM incre DISPL =0.0049467(Rank 9 of 16)
+Iteration k=5,  error residual =0.66015 MAX NORM incre DISPL =0.0019055(Rank 9 of 16)
+Iteration k=6,  error residual =0.66013 MAX NORM incre DISPL =0.00072645(Rank 9 of 16)
+Iteration k=7,  error residual =0.66012 MAX NORM incre DISPL =0.00027578(Rank 9 of 16)
+Iteration k=8,  error residual =0.66012 MAX NORM incre DISPL =0.00010452(Rank 9 of 16)
+Iteration k=9,  error residual =0.66012 MAX NORM incre DISPL =3.9589e-05(Rank 9 of 16)
+Iteration k=10,  error residual =0.66012 MAX NORM incre DISPL =1.4991e-05(Rank 9 of 16)
+Iteration k=11,  error residual =0.66012 MAX NORM incre DISPL =5.6761e-06(Rank 9 of 16)
+Iteration k=12,  error residual =0.66012 MAX NORM incre DISPL =2.1491e-06(Rank 9 of 16)
+------------------------------------------------------------------------------------------------
+FIRST STAGE: Integration rule with 4 of 16 points
+------------------------------------------------------------------------------------------------
+*********************************************************************************************
+ CUB. RULE  with    3 points ( of 16)
+**********************************************************************************************
+----------------------------------------
+ITER = 1 of 20 Reducing weight point 7 from 1 to 0.95 (attempt nº 1)
+---------------------------------------
+Iteration k=1,  error residual =0.037963 MAX NORM incre DISPL =0.0012753(Rank 9 of 16)
+Iteration k=2,  error residual =0.033329 MAX NORM incre DISPL =5.303e-05(Rank 9 of 16)
+Iteration k=3,  error residual =0.033328 MAX NORM incre DISPL =1.414e-06(Rank 9 of 16)
+Iteration k=4,  error residual =0.033328 MAX NORM incre DISPL =3.7833e-08(Rank 9 of 16)
+Iteration k=5,  error residual =0.033328 MAX NORM incre DISPL =1.0124e-09(Rank 9 of 16)
+Iteration k=6,  error residual =0.033328 MAX NORM incre DISPL =2.7091e-11(Rank 9 of 16)
+Iteration k=7,  error residual =0.033328 MAX NORM incre DISPL =7.2498e-13(Rank 9 of 16)
+Iteration k=8,  error residual =0.033328 MAX NORM incre DISPL =1.9429e-14(Rank 9 of 16)
+Iteration k=9,  error residual =0.033328 MAX NORM incre DISPL =5.5511e-16(Rank 9 of 16)
+Iteration k=10,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=11,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=12,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=13,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=14,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+----------------------------------------
+ITER = 1 of 20 Reducing weight point 8 from 1 to 0.95 (attempt nº 2)
+---------------------------------------
+Iteration k=1,  error residual =0.037963 MAX NORM incre DISPL =0.0012753(Rank 9 of 16)
+Iteration k=2,  error residual =0.033329 MAX NORM incre DISPL =5.303e-05(Rank 9 of 16)
+Iteration k=3,  error residual =0.033328 MAX NORM incre DISPL =1.414e-06(Rank 9 of 16)
+Iteration k=4,  error residual =0.033328 MAX NORM incre DISPL =3.7833e-08(Rank 9 of 16)
+Iteration k=5,  error residual =0.033328 MAX NORM incre DISPL =1.0124e-09(Rank 9 of 16)
+Iteration k=6,  error residual =0.033328 MAX NORM incre DISPL =2.7091e-11(Rank 9 of 16)
+Iteration k=7,  error residual =0.033328 MAX NORM incre DISPL =7.2487e-13(Rank 9 of 16)
+Iteration k=8,  error residual =0.033328 MAX NORM incre DISPL =1.9429e-14(Rank 9 of 16)
+Iteration k=9,  error residual =0.033328 MAX NORM incre DISPL =5.661e-16(Rank 9 of 16)
+Iteration k=10,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=11,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=12,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=13,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=14,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+----------------------------------------
+ITER = 1 of 20 Reducing weight point 9 from 1 to 0.95 (attempt nº 3)
+---------------------------------------
+Iteration k=1,  error residual =0.037963 MAX NORM incre DISPL =0.0012753(Rank 9 of 16)
+Iteration k=2,  error residual =0.033329 MAX NORM incre DISPL =5.303e-05(Rank 9 of 16)
+Iteration k=3,  error residual =0.033328 MAX NORM incre DISPL =1.414e-06(Rank 9 of 16)
+Iteration k=4,  error residual =0.033328 MAX NORM incre DISPL =3.7833e-08(Rank 9 of 16)
+Iteration k=5,  error residual =0.033328 MAX NORM incre DISPL =1.0124e-09(Rank 9 of 16)
+Iteration k=6,  error residual =0.033328 MAX NORM incre DISPL =2.7091e-11(Rank 9 of 16)
+Iteration k=7,  error residual =0.033328 MAX NORM incre DISPL =7.2487e-13(Rank 9 of 16)
+Iteration k=8,  error residual =0.033328 MAX NORM incre DISPL =1.9429e-14(Rank 9 of 16)
+Iteration k=9,  error residual =0.033328 MAX NORM incre DISPL =5.661e-16(Rank 9 of 16)
+Iteration k=10,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=11,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=12,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=13,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=14,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+----------------------------------------
+ITER = 1 of 20 Reducing weight point 6 from 1 to 0.95 (attempt nº 4)
+---------------------------------------
+Iteration k=1,  error residual =0.037963 MAX NORM incre DISPL =0.0012753(Rank 9 of 16)
+Iteration k=2,  error residual =0.033329 MAX NORM incre DISPL =5.303e-05(Rank 9 of 16)
+Iteration k=3,  error residual =0.033328 MAX NORM incre DISPL =1.414e-06(Rank 9 of 16)
+Iteration k=4,  error residual =0.033328 MAX NORM incre DISPL =3.7833e-08(Rank 9 of 16)
+Iteration k=5,  error residual =0.033328 MAX NORM incre DISPL =1.0124e-09(Rank 9 of 16)
+Iteration k=6,  error residual =0.033328 MAX NORM incre DISPL =2.7091e-11(Rank 9 of 16)
+Iteration k=7,  error residual =0.033328 MAX NORM incre DISPL =7.2487e-13(Rank 9 of 16)
+Iteration k=8,  error residual =0.033328 MAX NORM incre DISPL =1.9429e-14(Rank 9 of 16)
+Iteration k=9,  error residual =0.033328 MAX NORM incre DISPL =5.5511e-16(Rank 9 of 16)
+Iteration k=10,  error residual =0.033328 MAX NORM incre DISPL =1.1102e-16(Rank 9 of 16)
+Iteration k=11,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=12,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=13,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+Iteration k=14,  error residual =0.033328 MAX NORM incre DISPL =0(Rank 9 of 16)
+------------------------------------------------------------------------------------------------
+SECOND STAGE: Integration rule with 4 of 16 points
+------------------------------------------------------------------------------------------------
+---------------------------------
+Summary
+-------------------------------
+Reduction in first stage: from 16 to 4
+--------------------------------------------------
+Final integration rule with m =4 POINTS  (of 16). . Rank Basis = 16
+--------------------------------------------------
+Integration error
+-------------------------------------------------------
+Error (%) =4.3934e-14
+*******************************************************************************
+MESH CONTAINING THE NEW REDUCED SET OF POINTS
+------------------------------------------------
+PLotting history points (and weights)
+-------------------------------------------
+Employed aspect ratio (plotting purposes):  daspect(1           1         0.5)
+Approximation ERROR CECM original functions  (m= 4) = 3.0168e-13 %
+Approximation ERROR GAUSS original functions  (m= 4) =6.1555e-14 %
+COORDINATE and WEIGHTS GAUSSIAN POINTS
+----------------------------------------------
+
+ans =
+
+  4×3 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+            <strong>x</strong>                     <strong>y</strong>             <strong>w</strong>
+    <strong>__________________</strong>    <strong>__________________</strong>    <strong>_</strong>
+
+    -0.577350269189626    -0.577350269189626    1
+    -0.577350269189626     0.577350269189626    1
+     0.577350269189626    -0.577350269189626    1
+     0.577350269189626     0.577350269189626    1
+
+----------------------------------------------
+COORDINATE and WEIGHTS CECM POINTS
+----------------------------------------------
+
+ans =
+
+  4×3 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+            <strong>x</strong>                     <strong>y</strong>             <strong>w</strong>
+    <strong>__________________</strong>    <strong>__________________</strong>    <strong>_</strong>
+
+     0.577350269189626    -0.577350269189625    1
+    -0.577350269189626     0.577350269189626    1
+    -0.577350269189625    -0.577350269189626    1
+     0.577350269189626     0.577350269189626    1
+

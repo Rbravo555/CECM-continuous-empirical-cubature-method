@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gid version="15.0">
+  <pre>
+    <layer_to_use name="Layer0"/>
+    <groups>
+      <group id="1" name="Solid Auto1" color="#ff00ffff" allowed_types="#34" allowed_element_types="#7f"/>
+      <group id="2" name="Displacement Auto1" color="#008000ff" allowed_types="#f7" allowed_element_types="#7f"/>
+      <group id="3" name="Total" color="#ff00ffff" parent_id="2" state="hidden"/>
+      <group id="4" name="Load on lines Auto1" color="#ffff00ff" allowed_types="#f2" allowed_element_types="#7f"/>
+      <group id="5" name="Load on lines Auto2" color="#ffa500ff" allowed_types="#f2" allowed_element_types="#7f"/>
+      <group id="7" name="Load on lines Auto3" color="#ffc0cbff" allowed_types="#f2" allowed_element_types="#7f"/>
+      <group id="10" name="Custom4" color="#338080ff" parent_id="5" state="hidden"/>
+      <group id="11" name="Custom4" color="#4d4d80ff" parent_id="7" state="hidden"/>
+    </groups>
+    <entities_groups/>
+  </pre>
+</gid>
