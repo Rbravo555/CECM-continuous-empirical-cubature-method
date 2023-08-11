@@ -31,7 +31,7 @@ Determine SVD of the snapshot matrix obtained by sampling the function shown in 
 
 ![Alt Text](README_files/PaperScreenshot6.png)
 
-To compare the performance of both the standard SVD and the proposed SRSVD, launch script [EXAMPLE_partSVD/TestSeqSVD.m]
+To compare the performance of both the standard SVD and the proposed SRSVD, launch script: [EXAMPLE_partSVD/TestSeqSVD.m](EXAMPLE_partSVD/TestSeqSVD.m)
 
 The size of the resulting snapshot matrix is determined by the variable:
 
