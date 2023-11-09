@@ -59,4 +59,24 @@ LimitGbytesMatricesSnapshots = 2 ;
 ```
 
 
+# Citation
+If this repo has been useful for you, please consider citing us as
+
+```
+@article{HERNANDEZ2024116552,
+title = {CECM: A continuous empirical cubature method with application to the dimensional hyperreduction of parameterized finite element models},
+journal = {Computer Methods in Applied Mechanics and Engineering},
+volume = {418},
+pages = {116552},
+year = {2024},
+issn = {0045-7825},
+doi = {https://doi.org/10.1016/j.cma.2023.116552},
+url = {https://www.sciencedirect.com/science/article/pii/S004578252300676X},
+author = {J.A. Hernández and J.R. Bravo and S. {Ares de Parga}},
+keywords = {Empirical Cubature Method, Hyperreduction, Reduced-order modeling, Singular Value Decomposition, Quadrature}
+}
+```
+
+
+
 
