@@ -1,7 +1,7 @@
 ![Alt Text](README_files/PaperScreenshot1.png)
 
 # Contents
-This folder contains the source code of the Matlab functions required to use the **Continuous Empirical Cubature Method**, as well as the functions for the **Sequential Randomized Singular Value Decomposition** from [this paper](https://arxiv.org/abs/2308.03877) . It also contains the scripts for launching some of the examples shown in the paper.
+This folder contains the source code of the Matlab functions required to use the **Continuous Empirical Cubature Method**, as well as the functions for the **Sequential Randomized Singular Value Decomposition** from [this paper](https://www.sciencedirect.com/science/article/pii/S004578252300676X) . It also contains the scripts for launching some of the examples shown in the paper.
 
 # Example 1
 ## Univariate polynomials (section 6.1)
